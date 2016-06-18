@@ -1,23 +1,27 @@
 body{
-    	margin-left:400px;
-	margin-right:400px;
+    	
 	background-size: 100%;
 	background-attachment: fixed; 
 	background-repeat: no-repeat; 
 	background-image: url("http://storage.googleapis.com/wzukusers/user-14208941/images/55de006ad1db93PuIXfC/Abstract_Background_Wallpaper_053_1450.jpg");
 }
 h1{	
-
+	margin-left:400px;
+	margin-right:400px;
 	font-size: 40px;
 	color: white;
 	font-family: Arial;
 }
 p{
+	margin-left:400px;
+	margin-right:400px;
 	text-align: justify;
 	color: white;
 	font-family: Arial;
 }
 ol{
+	margin-left:400px;
+	margin-right:400px;
 	text-align: justify;
 	color: white;
 	font-family: Arial;
