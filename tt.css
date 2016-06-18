@@ -9,9 +9,15 @@ body{
 h1{
 	font-size: 40px;
 	color: white;
+	font-family: Arial;
 }
 p{
 	color: white;
+	font-family: Arial;
+}
+ol{
+	color: white;
+	font-family: Arial;
 }
 
 
