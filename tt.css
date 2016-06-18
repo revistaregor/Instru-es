@@ -27,6 +27,8 @@ ol{
 	font-family: Arial;
 }
 ul {
+	
+	margin-right:400px;
     list-style-type: none;
     margin: 0;
     padding: 0;
