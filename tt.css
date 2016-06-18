@@ -12,7 +12,8 @@ h1{
 	color: white;
 	font-family: Arial;
 }
-p{
+p{	
+	margin-left: 5em;
 	text-align: justify;
 	color: white;
 	font-family: Arial;
