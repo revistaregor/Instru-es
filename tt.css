@@ -33,10 +33,7 @@ ul {
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
 
 }
-li{
-	float: left;
-	left: 1em;
-}
+
 
 li a {
     display: block;
